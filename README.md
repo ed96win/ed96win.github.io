@@ -1,2 +1,1 @@
-# ed96win.github.io
-Website
+# Detect if DevTools is opened (in all browsers)
